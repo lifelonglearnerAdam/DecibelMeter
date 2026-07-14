@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1A1A2E</color>
+    <color name="primary_variant">#16213E</color>
+    <color name="secondary">#0F3460</color>
+    <color name="accent">#E94560</color>
+    <color name="green">#4CAF50</color>
+    <color name="yellow">#FFC107</color>
+    <color name="orange">#FF9800</color>
+    <color name="red">#F44336</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1A1A2E</color>
+</resources>
