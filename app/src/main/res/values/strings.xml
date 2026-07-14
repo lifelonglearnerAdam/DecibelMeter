@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">分贝仪</string>
+
+    <!-- 底部导航 -->
+    <string name="nav_meter">分贝仪</string>
+    <string name="nav_sleep">助眠音乐</string>
+    <string name="nav_hardware">硬件检测</string>
+
+    <!-- 分贝仪 -->
+    <string name="meter_current">当前分贝</string>
+    <string name="meter_max">最大</string>
+    <string name="meter_min">最小</string>
+    <string name="meter_avg">平均</string>
+    <string name="meter_dB">dB</string>
+    <string name="meter_start">开始测量</string>
+    <string name="meter_stop">停止测量</string>
+    <string name="meter_reset">重置</string>
+    <string name="meter_calibrate">校准</string>
+    <string name="meter_permission_required">需要录音权限才能测量分贝</string>
+    <string name="meter_grant_permission">授予权限</string>
+    <string name="meter_level_quiet">安静</string>
+    <string name="meter_level_normal">正常</string>
+    <string name="meter_level_moderate">中等</string>
+    <string name="meter_level_loud">嘈杂</string>
+    <string name="meter_level_very_loud">很吵</string>
+    <string name="meter_level_dangerous">危险!</string>
+    <string name="meter_history">历史记录</string>
+
+    <!-- 助眠音乐 -->
+    <string name="sleep_title">助眠音乐</string>
+    <string name="sleep_playing">正在播放</string>
+    <string name="sleep_stopped">已停止</string>
+    <string name="sleep_timer">定时器</string>
+    <string name="sleep_timer_off">关闭</string>
+    <string name="sleep_timer_15min">15分钟</string>
+    <string name="sleep_timer_30min">30分钟</string>
+    <string name="sleep_timer_60min">60分钟</string>
+    <string name="sleep_timer_custom">自定义</string>
+    <string name="sleep_preset_save">保存预设</string>
+    <string name="sleep_preset_load">加载预设</string>
+    <string name="sleep_volume">音量</string>
+
+    <!-- 硬件检测 -->
+    <string name="hardware_title">硬件检测</string>
+    <string name="hardware_mic_test">麦克风测试</string>
+    <string name="hardware_speaker_test">扬声器测试</string>
+    <string name="hardware_sensor_info">传感器信息</string>
+    <string name="hardware_battery">电池信息</string>
+    <string name="hardware_storage">存储信息</string>
+    <string name="hardware_network">网络信息</string>
+    <string name="hardware_display">屏幕信息</string>
+    <string name="hardware_test_pass">正常</string>
+    <string name="hardware_test_fail">异常</string>
+    <string name="hardware_testing">检测中…</string>
+    <string name="hardware_test_start">开始检测</string>
+
+    <!-- 通用 -->
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+</resources>
